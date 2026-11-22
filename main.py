@@ -22,5 +22,6 @@ if __name__ == "__main__":
     print("Moyenne :", calcul_moyenne(notes))
     print("Variance :", calcul_variance(notes))
     print("Ecart-type :", calcul_ecart_type(notes))
+    
     print("Médiane :", calcul_mediane(notes))
-    print("Somme :", calcul_somme(notes))
+    print("somme :", calcul_somme(notes))
